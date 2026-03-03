@@ -4,6 +4,8 @@ One-click restore + patch script for `google-antigravity-auth` (OpenClaw 2026.2.
 
 > Script: `restore_antigravity.py`
 
+# ⚠️ WARNING: Using Antigravity with OpenClaw may lead to account suspension. Use at your own risk.
+
 ## What this script does
 
 It runs 4 steps in order:
